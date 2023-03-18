@@ -1,0 +1,14 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "title": "GGG",
+      "img": "sdsd"
+    },
+    {
+      "title": "Gago",
+      "img": "https://imgs.search.brave.com/ACZO_o96TZwY_7jZ6YowxJrSfB8KKCVobrpHqvFqypY/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9pbWFn/ZXMubWVkaWNhbGRh/aWx5LmNvbS9zaXRl/cy9tZWRpY2FsZGFp/bHkuY29tL2ZpbGVz/LzIwMTMvMDgvMDQv/MC82Mi82MjU5Lmpw/Zw",
+      "id": 2
+    }
+  ]
+}
